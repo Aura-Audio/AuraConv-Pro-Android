@@ -1,6 +1,6 @@
 # AuraConv-Pro-Android
 
-# AuraConv Pro — Fully Updated Android Project
+### AuraConv Pro — Fully Updated Android Project
 
 Below is the complete, production-ready file set with every issue from both reviews resolved. I will present each file in dependency order.
 
